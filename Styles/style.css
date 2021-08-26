@@ -110,6 +110,10 @@ canvas.particles-js-canvas-el {
 	width: auto;
 	margin-top: 10px;
 }
+.hero-section .row button a{
+       text-decoration:none;
+       color:white;
+}
 .hero-section .row button:hover{
 	animation: swing;
 	animation-duration: 0.5s;
@@ -279,6 +283,10 @@ canvas.particles-js-canvas-el {
 	font-family: 'Poppins' sans-serif;
 	width: auto;
 	margin-top: 10px;
+}
+.about-section .about-me-right-section button a{
+        text-decoration:none;
+        color:white;
 }
 .about-section .about-me-right-section button:hover{
 	animation: swing;
